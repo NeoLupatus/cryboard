@@ -1,1 +1,1 @@
-This is my second try at designing a Custom Keyboard for a Friend of mine. Its a full sized board with two rotary encoders and additional macro keys.
+This is my second try at designing a custom keyboard for a friend of mine. Its a full sized board with two rotary encoders and additional macro keys.
